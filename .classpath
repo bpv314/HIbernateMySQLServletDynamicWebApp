@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 8 [1.8.0_111]">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
@@ -27,5 +28,6 @@
 	<classpathentry kind="lib" path="/Users/belen/Documents/HibernateWebApp/WebContent/WEB-INF/lib/log4j-1.2.11.jar"/>
 	<classpathentry kind="lib" path="/Users/belen/Documents/HibernateWebApp/WebContent/WEB-INF/lib/mysql-connector-java-5.1.20-bin.jar"/>
 	<classpathentry kind="lib" path="/Users/belen/Documents/HibernateWebApp/WebContent/WEB-INF/lib/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/belen/Documents/java_workspace2/HIbernateMySQLServletDynamicWebApp/WebContent/WEB-INF/lib/junit-4.12.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
